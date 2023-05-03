@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Chavan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2606017/screenshots/14272063/ezgif.com-gif-maker.gif"/>
 
 - 🔭 I’m currently working on **NFT MUSIC APP**
 
