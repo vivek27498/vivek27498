@@ -1,6 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Vivek Chavan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2606017/screenshots/14272063/ezgif.com-gif-maker.gif"/>
+<h3 align="center">Full stack developer from India</h3>
+<br></br>
+<img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
+
 
 - 🔭 I’m currently working on **NFT MUSIC APP**
 
