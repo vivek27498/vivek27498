@@ -9,10 +9,12 @@
 
 - 📫 How to reach me **vivek27498@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YMXlEw8PMmfXa9wiNWP6QLXGF8FfltIiLbFEbtONuJk/edit](https://docs.google.com/document/d/1YMXlEw8PMmfXa9wiNWP6QLXGF8FfltIiLbFEbtONuJk/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1I5mseR3TZNnY0zuLoURj23kQGjzs96nSxGHAJxVHLuo/edit?usp=sharing](https://docs.google.com/document/d/1I5mseR3TZNnY0zuLoURj23kQGjzs96nSxGHAJxVHLuo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/vivek27498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek27498" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-chavan-20941637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-chavan-20941637" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
