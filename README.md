@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vivek27498@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1I5mseR3TZNnY0zuLoURj23kQGjzs96nSxGHAJxVHLuo/edit?usp=sharing](https://docs.google.com/document/d/1I5mseR3TZNnY0zuLoURj23kQGjzs96nSxGHAJxVHLuo/edit?usp=sharing)
+- 📄 Know about my experiences [https://www.notion.so/Vivek-Chavan-e49d3018d83f4deda6b6a2a069f0e509](https://www.notion.so/Vivek-Chavan-e49d3018d83f4deda6b6a2a069f0e509)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
